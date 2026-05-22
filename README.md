@@ -18,7 +18,7 @@ This project demonstrates how a modern full-stack application is structured, inc
 
 ## Features
 
-### 🔐 Authentication System
+###  Authentication System
 - User registration and login
 - Logout functionality
 - Avatar upload support
